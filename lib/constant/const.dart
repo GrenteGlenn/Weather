@@ -1,2 +1,3 @@
-const apiKey = 'c0edf3cd157ffd0a2672c8f75f7382b5';
+// get your owner key on openweatherMap
+const apiKey =  ;
 const apiEndpoint = 'https://api.openweathermap.org/data/2.5';
