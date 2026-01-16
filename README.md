@@ -55,5 +55,6 @@ Créer un fichier .env à la racine du projet :
 
 ## ▶️ Lancer le projet 
 
-flutter run
+- flutter run
+
 
